@@ -128,5 +128,4 @@ config.ini
 dmypy.json
 
 # Pyre type checker
-
-.joonas
+.pyre/
